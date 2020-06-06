@@ -2,14 +2,14 @@
 mongodb, nodejs, express, vuejs
 
 # install
--frontend
-...json
-cd client
-npm install
-npm run serve
+frontend : <br>
+
+cd client : <br>
+npm install : <br>
+npm run serve : <br>
 
 -backend
-...
-cd server
-npm install
-npm start
+
+cd server : <br>
+npm install : <br>
+npm start : <br>
