@@ -1,4 +1,4 @@
-# MEVN shop demo
+# MEVN shopping-cart demo
 mongodb, nodejs, express, vuejs
 
 # install
